@@ -21,6 +21,181 @@ Given two strings S and T, determine if they are both one edit distance apart.
 Given a sorted integer array where the range of elements are in the inclusive range [lower, upper], return its missing ranges.  
 For example, given [0, 1, 3, 50, 75], lower = 0 and upper = 99, return ["2", "4->49", "51->74", "76->99"].  
 
+
+## 170  
+Design and implement a TwoSum class. It should support the following operations: add and find.  
+
+add - Add the number to an internal data structure.  
+find - Find if there exists any pair of numbers which sum is equal to the value.  
+For example,
+```
+add(1); add(3); add(5);
+find(4) -> true
+find(7) -> false
+```
+## 186  
+Given an input string, reverse the string word by word. A word is defined as a sequence of non-space characters.  
+
+The input string does not contain leading or trailing spaces and the words are always separated by a single space.  
+
+For example,
+```
+Given s = "the sky is blue",
+return "blue is sky the".
+```
+Could you do it in-place without allocating extra space?  
+
+## 243  
+Given a list of words and two words word1 and word2, return the shortest distance between these two words in the list.  
+
+For example,
+```
+Assume that words = ["practice", "makes", "perfect", "coding", "makes"].
+```
+```
+Given word1 = “coding”, word2 = “practice”, return 3.
+Given word1 = "makes", word2 = "coding", return 1.
+```
+
+## 246  
+A strobogrammatic number is a number that looks the same when rotated 180 degrees (looked at upside down).  
+
+Write a function to determine if a number is strobogrammatic. The number is represented as a string.  
+
+For example, the numbers "69", "88", and "818" are all strobogrammatic.  
+
+## 247  
+A strobogrammatic number is a number that looks the same when rotated 180 degrees (looked at upside down).  
+
+Find all strobogrammatic numbers that are of length = n.  
+
+For example,
+```
+Given n = 2, return ["11","69","88","96"].
+```
+
+## 249
+Given a string, we can "shift" each of its letter to its successive letter, for example: "abc" -> "bcd". We can keep "shifting" which forms the sequence:  
+```
+"abc" -> "bcd" -> ... -> "xyz"
+```
+Given a list of strings which contains only lowercase alphabets, group all strings that belong to the same shifting sequence.  
+
+For example, given: ```["abc", "bcd", "acef", "xyz", "az", "ba", "a", "z"]```, 
+A solution is:  
+```
+[
+  ["abc","bcd","xyz"],
+  ["az","ba"],
+  ["acef"],
+  ["a","z"]
+]
+```
+
+## 250  
+Given a binary tree, count the number of uni-value subtrees.  
+
+A Uni-value subtree means all nodes of the subtree have the same value.  
+
+For example:  
+Given binary tree,  
+```
+              5
+             / \
+            1   5
+           / \   \
+          5   5   5
+```
+return 4.
+
+## 251  
+Implement an iterator to flatten a 2d vector.
+
+For example,
+Given 2d vector =
+```
+[
+  [1,2],
+  [3],
+  [4,5,6]
+]
+```
+By calling next repeatedly until hasNext returns false, the order of elements returned by next should be: ```[1,2,3,4,5,6]```.
+
+## 252  
+Given an array of meeting time intervals consisting of start and end times [[s1,e1],[s2,e2],...] (si < ei), determine if a person could attend all meetings.
+
+For example,
+```
+Given [[0, 30],[5, 10],[15, 20]],
+```
+return false.
+
+## 253
+Given an array of meeting time intervals consisting of start and end times [[s1,e1],[s2,e2],...] (si < ei), find the minimum number of conference rooms required.
+
+For example,
+```
+Given [[0, 30],[5, 10],[15, 20]],
+```
+return 2.
+
+## 254
+Numbers can be regarded as product of its factors. For example,
+```
+8 = 2 x 2 x 2;
+  = 2 x 4.
+```
+Write a function that takes an integer n and return all possible combinations of its factors.  
+
+Note:  
+You may assume that n is always positive.  
+Factors should be greater than 1 and less than n.  
+Examples:   
+```
+input: 1
+output: 
+[]
+input: 37
+output: 
+[]
+input: 12
+output:
+[
+  [2, 6],
+  [2, 2, 3],
+  [3, 4]
+]
+input: 32
+output:
+[
+  [2, 16],
+  [2, 2, 8],
+  [2, 2, 2, 4],
+  [2, 2, 2, 2, 2],
+  [2, 4, 4],
+  [4, 8]
+]
+```
+## 255  
+Given an array of numbers, verify whether it is the correct preorder traversal sequence of a binary search tree.  
+
+You may assume each number in the sequence is unique.  
+
+Follow up:  
+Could you do it using only constant space complexity?  
+
+## 259
+Given an array of n integers nums and a target, find the number of index triplets i, j, k with 0 <= i < j < k < n that satisfy the condition nums[i] + nums[j] + nums[k] < target.  
+
+For example, given nums = [-2, 0, 1, 3], and target = 2.  
+
+Return 2. Because there are two triplets which sums are less than 2:  
+```
+[-2, 0, 1]
+[-2, 0, 3]
+```
+
 ## 261  
 Given n nodes labeled from 0 to n - 1 and a list of undirected edges (each edge is a pair of nodes), write a function to check whether these edges make up a valid tree.
 
