@@ -57,6 +57,13 @@ Given word1 = “coding”, word2 = “practice”, return 3.
 Given word1 = "makes", word2 = "coding", return 1.
 ```
 
+## 244
+[link](https://www.evernote.com/shard/s424/sh/b3a16113-c926-4f8d-bab6-040eba4e8493/0b8ab7a3670a79074c5b022c83a8533c)
+
+## 245
+[link](https://www.evernote.com/shard/s424/sh/dd5c5f2b-913a-45ed-9d48-da5ad544aa7f/0c40b3b31b8881d2e1b389992b65813f)
+
+
 ## 246  
 A strobogrammatic number is a number that looks the same when rotated 180 degrees (looked at upside down).  
 
@@ -73,6 +80,8 @@ For example,
 ```
 Given n = 2, return ["11","69","88","96"].
 ```
+## 248  
+[link](https://www.evernote.com/shard/s424/sh/cbd0f673-bb41-49c0-92d6-e0750c33da46/9b5eebf05afe16320b0a1962e9a336f6)
 
 ## 249
 Given a string, we can "shift" each of its letter to its successive letter, for example: "abc" -> "bcd". We can keep "shifting" which forms the sequence:  
@@ -185,6 +194,9 @@ You may assume each number in the sequence is unique.
 Follow up:  
 Could you do it using only constant space complexity?  
 
+## 256  
+[link](https://www.evernote.com/shard/s424/sh/e3d5dce9-ca85-4943-b390-b2266724ecb5/b567d0e0597a6a83d69b0f5caf137e1d)
+
 ## 259
 Given an array of n integers nums and a target, find the number of index triplets i, j, k with 0 <= i < j < k < n that satisfy the condition nums[i] + nums[j] + nums[k] < target.  
 
@@ -206,6 +218,11 @@ Given n = 5 and edges = [[0, 1], [0, 2], [0, 3], [1, 4]], return true.
 ```
 Given n = 5 and edges = [[0, 1], [1, 2], [2, 3], [1, 3], [1, 4]], return false.
 ```
+
+
+## 265  
+[link](https://www.evernote.com/shard/s424/sh/206176a4-ab13-4324-be46-f7bf7c7571e3/1206c2895f2ed8d0ab093752ff0a6c7a)
+
 ## 266  
 Given a string, determine if a permutation of the string could form a palindrome.  
 
@@ -225,12 +242,24 @@ Given s = "aabb", return ["abba", "baab"].
 Given s = "abc", return [].
 ```
 
+## 269
+[link](https://www.evernote.com/shard/s424/sh/636f555a-0bed-4451-8937-207411a6245e/d35bbaf99b4c63e5a971f3b2c901c815)
+
+
 ## 270  
 Given a non-empty binary search tree and a target value, find the value in the BST that is closest to the target.  
 
 Note:  
 Given target value is a floating point.  
 You are guaranteed to have only one unique value in the BST that is closest to the target.  
+
+## 271
+[link](https://www.evernote.com/shard/s424/sh/319287ee-1bca-4f30-b2e2-621bb8b4102d/adbc40221698ce47c97c70f09950e0ba)
+
+## 272
+[link](https://www.evernote.com/shard/s424/sh/adc2a62a-c674-439f-b472-83e2a0b45db4/a7e6144d2290f9d164ee3b41baeac7d9)  
+
+
 
 ## 276  
 There is a fence with n posts, each post can be painted with one of the k colors.  
@@ -242,10 +271,19 @@ Return the total number of ways you can paint the fence.
 Note:  
 n and k are non-negative integers.  
 
+## 277
+[link](https://www.evernote.com/shard/s424/sh/d521ebde-5640-4b6a-9670-912fcfd807ae/08ef95ec398086aec4db93b860b7a5cf)
+
+
+
 ## 280  
 Given an unsorted array nums, reorder it in-place such that nums[0] <= nums[1] >= nums[2] <= nums[3]....  
 
 For example, given nums = [3, 5, 2, 1, 6, 4], one possible answer is [1, 6, 2, 5, 3, 4].  
+
+## 281
+[link](https://www.evernote.com/shard/s424/sh/a211d171-2190-4139-bf91-81629f4ae212/ee5c86760956168af57372bec2623ebb)
+
 
 
 
@@ -254,7 +292,25 @@ Given a binary search tree and a node in it, find the in-order successor of that
 
 Note: If the given node has no in-order successor in the tree, return null.  
 
+## 286
+[link](https://www.evernote.com/shard/s424/sh/33347f6a-613d-4af6-8610-edd14b3e3869/9c2d0c9c4b58d00423ccd51161f00164)
 
+
+## 288
+[link](https://www.evernote.com/shard/s424/sh/b4b87cc8-5dc9-4f12-bf6b-7ac9b80475ad/e285230c7cb3c22b8f27046cbd2e5c66)
+
+## 291
+[link](https://www.evernote.com/shard/s424/sh/b4e05817-60d1-49f5-8abb-8889db2fce56/514a840255ba8bdcf196c082290131a8)
+
+
+## 293  
+[link](https://www.evernote.com/shard/s424/sh/928d885c-af24-44b8-b12c-2911769b6ce9/c7202c18fc20c4204698d1c653dda0ea)
+
+## 294  
+[link](https://www.evernote.com/shard/s424/sh/68d026fe-f62b-494f-bbd4-84ca39f650f2/35b39963b5da845faa993a302014ac44)  
+
+## 296
+[link](https://www.evernote.com/shard/s424/sh/1c5be68a-63d1-4d5c-ae1d-8950f1b3a34c/fc3bb126fcd582123cb196f8670a4518)  
 
 
 ## 298
@@ -299,6 +355,14 @@ For example, given the following image:
 ```
 and ```x = 0, y = 2```,
 Return ```6```.
+
+## 305  
+[link](https://www.evernote.com/shard/s424/sh/ed79eb47-1d64-4063-ab24-73b19f54bf9a/13c84b992f2cb37320e367fc2f232435)
+
+
+## 308
+[link](https://www.evernote.com/shard/s424/sh/5948b5ce-9da6-4479-8e86-1cdcaed6f5f4/5c55bb988a51c7f0581a7e160086dcaf)
+
 
 ## 311
 Given two sparse matrices A and B, return the result of AB.  
@@ -395,6 +459,9 @@ return its vertical order traversal as:
 ]
 ```
 
+## 317  
+[link](https://www.evernote.com/shard/s424/sh/b586853d-5528-44bf-a691-7bedbe1d0e14/239cdcb3518f0feaf9814bc49575ccbf)
+
 
 
 
@@ -406,6 +473,18 @@ Given word = "word", return the following list (order does not matter):
 ```
 ["word", "1ord", "w1rd", "wo1d", "wor1", "2rd", "w2d", "wo2", "1o1d", "1or1", "w1r1", "1o2", "2r1", "3d", "w3", "4"]
 ```
+
+
+## 323
+[link](https://www.evernote.com/shard/s424/sh/38719821-f35b-444a-8bfb-2e393c9c8eea/e2126d374ef3269cd70cf338696b116c)  
+
+
+## 325
+[link](https://www.evernote.com/shard/s424/sh/a9c3d83e-cfa2-4b07-881e-c2acfa6db4bd/2bc587aab8c4f64c54bf00b56938c526)
+
+## 333
+[link](https://www.evernote.com/shard/s424/sh/33b7e93f-0416-4dc5-ba37-026f174e1870/5ea219baa539b220ffa110868079e07c)  
+
 
 ## 339  
 Given a nested list of integers, return the sum of all integers in the list weighted by their depth.  
@@ -440,6 +519,15 @@ m.next(10) = (1 + 10) / 2
 m.next(3) = (1 + 10 + 3) / 3
 m.next(5) = (10 + 3 + 5) / 3
 ```
+## 348  
+[link](https://www.evernote.com/shard/s424/sh/9b27d847-189a-41cf-9ce0-f94e9cdb2286/52b8251785312e1781c7217575a33d34)
+
+## 351
+[link](https://www.evernote.com/shard/s424/sh/7fa4958e-abbd-4ad6-ad85-1d479b0995b9/01b9e69bd42f2a394eb85bd6b60edad7)
+
+## 353
+[link](https://www.evernote.com/shard/s424/sh/cffd88c1-9dcf-4b5a-b828-2c081fe7a6bf/b154dda9aebfa6303e6aa9e09c8a95df)
+
 
 
 ## 356  
@@ -453,6 +541,14 @@ Example 2:
 ```
 Given points = [[1,1],[-1,-1]], return false.
 ```
+
+## 358  
+[link](https://www.evernote.com/shard/s424/sh/044b487b-a6a8-41ef-acdc-af5c55e8b755/8553ad10d919c0410e801431ec4d8669)
+
+## 359
+[link](https://www.evernote.com/shard/s424/sh/9a4e8e77-6fc7-4100-ad2a-bfaad527f9c7/82d1b472ca1e513fca50c5e37bd45792)
+
+
 ## 360  
 Given a sorted array of integers nums and integer values a, b and c. Apply a function of the form f(x) = ax2 + bx + c to each element x in the array.  
 
@@ -470,6 +566,20 @@ nums = [-4, -2, 2, 4], a = -1, b = 3, c = 5
 
 Result: [-23, -5, 1, 7]
 ```
+
+## 361
+[link](https://www.evernote.com/shard/s424/sh/5184b861-970f-44dc-a123-dc58e4bd6023/d144dc20fe5644e7cde83c26c1e0062b)
+
+## 362
+[link](https://www.evernote.com/shard/s424/sh/ae3ef874-1fdf-4e73-9af1-cad1764c49d0/422c5f7c14d9866793014ad1e10d6a4a)
+
+
+## 364
+[link](https://www.evernote.com/shard/s424/sh/71e1c141-fbb0-4836-80d9-dcd18a7b0672/3feda6c830c8c7c853f51b118005af91)
+
+## 366
+[link](https://www.evernote.com/shard/s424/sh/b28fe7b1-7768-460f-b7d7-45f07748dd42/9770f2d7a40fbeef4b3bf6bd3723d34a)
+
 ## 369  
 Given a non-negative integer represented as non-empty a singly linked list of digits, plus one to the integer.  
 
@@ -485,6 +595,75 @@ Input:
 Output:
 1->2->4
 ```
+
+## 370
+[link](https://www.evernote.com/shard/s424/sh/601ce4c1-c010-4787-9401-879fcbf6decf/9b662193ea8685003f3fc634380a2038)
+
+## 379
+[link](https://www.evernote.com/shard/s424/sh/d4833cd1-7790-4071-b83a-09fcbc68b192/ec2aa43c39ecc5255c7c3497b7aebf04)
+
+## 408
+[link](https://www.evernote.com/shard/s424/sh/f9d3e066-8436-4b6d-9810-912c2134be03/8e6453dd17abc2b3553a1d6c7625b655)
+
+## 411
+[link](https://www.evernote.com/shard/s424/sh/17ac6efa-664a-43f9-a3c3-154fed9d3eac/dd6fa86f13c9d4f3ec2eae71400424eb)
+
+## 418
+[link](https://www.evernote.com/shard/s424/sh/ed137749-7d7e-4fe9-8711-a1074bf4ded7/b5372605046ab1a486b06c0ce67754af)
+
+## 422
+[link](https://www.evernote.com/shard/s424/sh/6bdba465-22e1-4a25-9bee-479104b0e9c5/3adb808ed811e18cffd5435a94049d8a)
+
+## 425
+[link](https://www.evernote.com/shard/s424/sh/e7b4a78e-9a19-4553-9795-7db8d4927a22/912144d1ec229cf0ed7fba23cf4b877b)
+
+## 439
+[link](https://www.evernote.com/shard/s424/sh/2060a367-6988-4b07-b7d8-0a5c3f697bf0/4516b842fa67175339facb4d35605d4e)
+
+## 444
+[link](https://www.evernote.com/shard/s424/sh/70a768de-a551-4b8b-90fb-e78c184f05f9/c4986c92d10f73e48626dad1bffc97da)
+
+## 465
+[link](https://www.evernote.com/shard/s424/sh/9d347619-3ab9-4840-a339-ef036fce8f9e/71db497c7511466e40cde522876ecb77)
+
+## 469
+[link](https://www.evernote.com/shard/s424/sh/ed293415-0128-4d5f-be5d-b95ff98eb151/df1a6771318eef1693276d23c7d0a66a)
+
+## 471
+[link](https://www.evernote.com/shard/s424/sh/3211ccec-f1c8-4447-8b15-b6fa5b54e8e0/781414b935e33d2e8820c6aa61c7a210)
+
+## 484
+[link](https://www.evernote.com/shard/s424/sh/220c5e8e-8a71-4da0-89cb-f45ab99e7e25/fdaf9ac2578c5cceaa18318181902505)
+
+## 487
+[link](https://www.evernote.com/shard/s424/sh/1334618b-64a2-4a82-806f-17510567ad3e/f114a5b1e47957ffd0fe93628112a035)
+
+## 490
+[link](https://www.evernote.com/shard/s424/sh/2c941797-cafc-42fe-a4d6-3e37eb301f17/64ec70e6567c7d847807621a8c98a241)
+
+## 499
+[link](https://www.evernote.com/shard/s424/sh/7e20f3d4-a5bf-4bb3-bdc7-1757f7d8ce56/8e20cf58f5b4522499ddb9aa952465ed)
+
+## 505
+[link](https://www.evernote.com/shard/s424/sh/53234af7-bb87-434a-803e-f7e2d3cbd73a/4aa33b96d3498b72d6ab76a8a98bfa86)
+
+## 527
+[link](https://www.evernote.com/shard/s424/sh/032c81ef-344c-466c-b01a-7d680ae0f4ec/45d67e1a8aee0f0fd704e3f57f3da98d)
+
+## 531
+[link](https://www.evernote.com/shard/s424/sh/59109a8c-3334-46a7-9e23-dd0e29f480c4/60904e89b1f442411594491f9cc306be)
+
+## 533
+[link](https://www.evernote.com/shard/s424/sh/7e8a40eb-b831-4487-b11f-cdfac63c1366/2e535063492544ce9072ae44573caf47)
+
+## 536
+[link](https://www.evernote.com/shard/s424/sh/4152fe9f-b417-4ccb-b6c1-141aa3f90821/4436ab01fbfe4a2c162da93b3d4e3e69)
+
+## 544
+[link](https://www.evernote.com/shard/s424/sh/d917007c-d6b9-4272-a1e1-6ba6cf96e0d4/d141ed294fcbfcc5e4cd25cd13dd2636)
+
+## 545
+[link](https://www.evernote.com/shard/s424/sh/fef0c1d8-b135-4795-9a0a-68b124f5c9c1/1f3446a74a7a9cc6e3435afe9f5ec321)
 
 ## 548  
 [link](https://www.evernote.com/shard/s424/sh/bf2b11d4-33e4-4a06-b2c2-8ef3cad0fdce/c30a120ae663f7fbeb1c5af1c14e0aa1)
