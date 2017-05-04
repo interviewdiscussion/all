@@ -667,3 +667,24 @@ Output:
 
 ## 548  
 [link](https://www.evernote.com/shard/s424/sh/bf2b11d4-33e4-4a06-b2c2-8ef3cad0fdce/c30a120ae663f7fbeb1c5af1c14e0aa1)
+
+## 549
+[link](https://www.evernote.com/shard/s424/sh/217ca5b4-2af2-4c1f-a5d4-f1ce095a3950/87bc4452d990a7a467e2731233c5502b)
+
+## 555
+[link](https://www.evernote.com/shard/s424/sh/75afb910-9591-4464-94b8-3afcc7e79766/68d5b882595055adb21b5a72a3c57e6f)
+
+## 562
+Given a 01 matrix M, find the longest line of consecutive one in the matrix. The line could be horizontal, vertical, diagonal or anti-diagonal.  
+
+Example
+```
+Input:
+[[0,1,1,0],
+ [0,1,1,0],
+ [0,0,0,1]]
+Output: 3
+```
+
+## 568
+[link](https://www.evernote.com/shard/s424/sh/c8cdb40c-cbb3-4f20-9d2a-2283e86e8f23/2b7080848c3dc2ffbcc483d0e1538507)
