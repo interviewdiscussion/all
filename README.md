@@ -704,5 +704,20 @@ Output: 3
 ## 577
 [link](https://www.evernote.com/shard/s424/sh/3cd5c85e-ebf7-404b-b54a-14ec88ca6380/bca6ec6e4e659d7ed8b58df2c8e9ee71)
 
+## 578
+[link](https://www.evernote.com/shard/s424/sh/01a7907b-4778-455e-92c5-c5bf23dd56fc/0c483119c882191b0131bbdac8d0c897)
+
 ## 579
 [link](https://www.evernote.com/shard/s424/sh/b4ef789b-42c0-4266-a3a4-821e0eef533e/e3a2588891337e0f834882413803de14)
+
+## 580
+[link](https://www.evernote.com/shard/s424/sh/ac700d84-3b34-4030-97c0-4ce492332b5a/ef2ada8982b9ffc9e6ec574226e2cd90)
+
+## 584
+[link](https://www.evernote.com/shard/s424/sh/ab286516-3ddc-4458-93d5-552c3d9632f3/b1a3b0d7a1fdc7598e63354dc3e982be)
+
+## 585
+[link](https://www.evernote.com/shard/s424/sh/3f193886-5b7b-442e-9d29-dbaa130a0682/eca719b34a8421a2431b1528a89ad3dc)
+
+## 586
+[link](https://www.evernote.com/shard/s424/sh/011f00d8-0b73-40c9-9bbd-99d64b0eaf59/019d39c728c7322d7f875103171f04fb)
